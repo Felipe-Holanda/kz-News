@@ -1,6 +1,6 @@
 import Request from "./fetch.js";
-import Cards from "../cards.js";
-import bigNews from "../bigNews.js";
+import Cards from "./cards.js";
+import bigNews from "./bigNews.js";
 
 class doomManager {
 
